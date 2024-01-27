@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.my-styled-div {
+  color: blue;
+  font-size: 18px;
+  /* Add more styles as needed */
+}
+
+.puppy-list {
+  display: flex;
+  flex-wrap: wrap;
+  /* Add more styles for your puppy list */
+}
